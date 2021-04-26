@@ -1,9 +1,8 @@
-# Seo Young Park
-#### *Repositories for Data Analysis projects* 
+# Seo Young's Repositories for Data Analysis projects* 
 
-> Sungkyunkwan University (2017~)
-> Statistics 
-> Artifical Intelligience (Dual major)
+> Sungkyunkwan University 
+> Statistics &
+> Artifical Intelligience (Dual major) (2017~)
 
 ### Tech tools
 
