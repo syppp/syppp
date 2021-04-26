@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=timeGradient&height=300&section=header&text=&fontSize=90)
-# Seo Young's Repositories Data Analysis projects
-
+![header](https://capsule-render.vercel.app/api?type=Soft&color=timeGradient&height=300&section=header&text=Seo\nYoung's\nData\nAnalysis\nprojects
+&fontSize=90)
+# 
 > Sungkyunkwan University 
 > Statistics &
 > Artifical Intelligience (Dual major) (2017~)
