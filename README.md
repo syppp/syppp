@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=DataAnalysisProjects%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=DataProjects%20render&fontSize=90)
 # Seo Young's Repositories Data Analysis projects
 
 > Sungkyunkwan University 
