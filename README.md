@@ -2,11 +2,6 @@
 > :love_letter: Statistics &
 > Artifical Intelligience (Dual major) (2017~)
 
-## Tech tools
-
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
 ## Interest & Experience
 :bar_chart: mainly interested in data-driven projects using
 - Machine Learning 
@@ -14,3 +9,8 @@
  
 :pencil2: having short web programming experiences using
 - Django web framework
+
+## Tech tools
+
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
