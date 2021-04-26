@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=timeGradient&height=300&section=header&text=SeoYoung's<br />Data&nbsp;Analysis&nbsp;projects&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=timeGradient&height=300&section=header&text=SeoYoung's<br/>Data&nbsp;Analysis&nbsp;projects&fontSize=70)
 # 
 > Sungkyunkwan University 
 > Statistics &
