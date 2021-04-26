@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=SeoYoung's&nbsp;Data&nbsp;Analysis&nbsp;projects&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&height=200&section=header&text=SeoYoung's&nbsp;Data&nbsp;Analysis&nbsp;projects&fontSize=40)
 > :love_letter: Sungkyunkwan University 
 > Statistics &
 > Artifical Intelligience (Dual major) (2017~)
