@@ -16,8 +16,8 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ## Repository Categories
-| PSAT | Projects at 'PSAT' SKKU Statistics Conference |
 | ------ | ------ |
+| PSAT | Projects at 'PSAT' SKKU Statistics Conference |
 | Class | Projects at Classes |
 | Comepetion | SouceCode & PPT of Data Analysis Competitions|
 | LikeLion | Projects & Assignments at 'LikeLion' web programming Conference |
