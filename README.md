@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&height=50&section=header&text=SeoYoung's&nbsp;Data&nbsp;Analysis&nbsp;projects&fontSize=20)
 > :love_letter: Statistics &
-> Artifical Intelligience (Dual major) (2017~)
+> Artificial Intelligience (Dual major) (2017~)
 
 ## Interest & Experience
 :bar_chart: mainly interested in data-driven projects using
