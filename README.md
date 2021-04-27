@@ -13,9 +13,9 @@
 ## Repository Categories
 | Name | Details |
 | ------ | ------ |
-| PSAT | Projects at 'PSAT' SKKU Statistics Conference |
+| PSAT | Projects at 'P-SAT' SKKU Statistics Conference |
 | Class | Projects at Classes |
-| Competetion | SouceCode & PPT of Data Analysis Competitions|
+| Competetion | SourceCode & PPT of Data Analysis Competitions|
 | LikeLion | Projects & Assignments at 'LikeLion' web programming Conference |
 
 ## Tech tools
