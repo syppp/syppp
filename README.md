@@ -10,16 +10,14 @@
 :pencil2: having short web programming experiences using
 - Django web framework
 
-## Tech tools
-
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
 ## Repository Categories
-
 | Category | Details |
 | ------ | ------ |
 | PSAT | Projects at 'PSAT' SKKU Statistics Conference |
 | Class | Projects at Classes |
 | Comepetion | SouceCode & PPT of Data Analysis Competitions|
 | LikeLion | Projects & Assignments at 'LikeLion' web programming Conference |
+
+## Tech tools
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
