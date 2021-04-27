@@ -11,11 +11,11 @@
 - Django web framework
 
 ## Repository Categories
-| Category | Details |
+| Name | Details |
 | ------ | ------ |
 | PSAT | Projects at 'PSAT' SKKU Statistics Conference |
 | Class | Projects at Classes |
-| Comepetion | SouceCode & PPT of Data Analysis Competitions|
+| Compepetion | SouceCode & PPT of Data Analysis Competitions|
 | LikeLion | Projects & Assignments at 'LikeLion' web programming Conference |
 
 ## Tech tools
