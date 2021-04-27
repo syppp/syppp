@@ -15,7 +15,7 @@
 | ------ | ------ |
 | PSAT | Projects at 'PSAT' SKKU Statistics Conference |
 | Class | Projects at Classes |
-| Compepetion | SouceCode & PPT of Data Analysis Competitions|
+| Competetion | SouceCode & PPT of Data Analysis Competitions|
 | LikeLion | Projects & Assignments at 'LikeLion' web programming Conference |
 
 ## Tech tools
