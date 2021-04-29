@@ -14,6 +14,7 @@
 | Name | Details |
 | ------ | ------ |
 | PSAT | Projects at 'P-SAT' SKKU Statistics Conference |
+| Python_ML | ML studying with python book |
 | Class | Projects at Classes |
 | Competetion | SourceCode & PPT of Data Analysis Competitions|
 | LikeLion | Projects & Assignments at 'LikeLion' web programming Conference |
